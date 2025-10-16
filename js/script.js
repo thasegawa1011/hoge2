@@ -18,7 +18,7 @@ const colorBg =() => {
   document.body.style.backgroundColor = color.value;
 
   //カラーコードを表示
-	if(coler.value === '#ffffff'){
+	if(color.value === '#ffffff'){
   text.textContent = `カラーコード:${color.value}(white)`;
 	}
 }
