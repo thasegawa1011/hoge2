@@ -22,8 +22,8 @@ const colorBg =() => {
   text.textContent = `カラーコード:${color.value}(white)`;
 	}
 //	else{
-		text.textContent = `カラーコード:${color.value}`;
-}
+//		text.textContent = `カラーコード:${color.value}`;
+//}
 
 
 //カラーピッカーが変更されたらcolorBgを発動させる
