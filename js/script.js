@@ -21,6 +21,8 @@ const colorBg =() => {
 	if(color.value === '#ffffff'){
   text.textContent = `カラーコード:${color.value}(white)`;
 	}
+else{
+		text.textContent = `カラーコード:${color.value}`;
 }
 
 
