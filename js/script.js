@@ -11,6 +11,11 @@
 const text = document.querySelector('#colorText');
 const color = document.querySelector('#colorPicker');
 
+//カラーピッカーを操作した時の一連の動作
+const colorBg =() => {
+  //選択した色を背景色に設定
+
+
 const colorBg = () => {
 text.textContent = `カラーコード：${color.value}`;
 }
