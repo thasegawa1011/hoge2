@@ -24,7 +24,7 @@ const colorBg =() => {
 //	else{
 //		text.textContent = `カラーコード:${color.value}`;
 //}
-
+}
 
 //カラーピッカーが変更されたらcolorBgを発動させる
 color.addEventListener('input',colorBg);
