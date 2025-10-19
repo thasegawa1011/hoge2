@@ -20,6 +20,13 @@
 }
 
 /*　コンテンツ部分　*/
-.loaded {
-
+.gallery {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(auto-fit, munmax(300px, 1fr));
+}
+img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
 }
