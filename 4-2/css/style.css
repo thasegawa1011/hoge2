@@ -22,8 +22,8 @@
 /*　コンテンツ部分　*/
 .gallery {
     display: grid;
-    gap: 10px;
-    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+    gap: 300px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 img{
     width: 100%;
