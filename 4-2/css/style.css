@@ -1,0 +1,14 @@
+/*　ローディング画面　*/
+#loading {
+    transition: all 1s;
+    background-color: #ddd;
+    position: fixed;
+    z-index: 9999;
+    inset: 0;
+    display: grid;
+    place-items: center;
+}
+.spinner {
+    width: 200px;
+    height: 200px;
+}
