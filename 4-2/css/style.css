@@ -1,6 +1,6 @@
 /*　ローディング画面　*/
 #loading {
-    transition: all 1s;
+    transition: all 10s;
     background-color: #ddd;
     position: fixed;
     z-index: 9999;
