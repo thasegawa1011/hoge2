@@ -23,7 +23,7 @@
 .gallery {
     display: grid;
     gap: 10px;
-    grid-template-columns: repeat(auto-fit, munmax(50px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
 }
 img{
     width: 100%;
