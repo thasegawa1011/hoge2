@@ -23,10 +23,10 @@
 .gallery {
     display: grid;
     gap: 10px;
-    grid-template-columns: repeat(auto-fit, munmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, munmax(50px, 1fr));
 }
 img{
     width: 100%;
-    height: 300px;
+    height: 50px;
     object-fit: cover;
 }
