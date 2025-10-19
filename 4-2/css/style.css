@@ -13,4 +13,13 @@
     height: 200px;
 }
 
+/*　ローディング完了したら、ローディング画面を隠す　*/
+.loaded{
+    opacity: 0;
+    visibility: hidden;
+}
+
 /*　コンテンツ部分　*/
+.loaded {
+
+}
