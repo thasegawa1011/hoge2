@@ -1,7 +1,8 @@
 body{
     padding: 2rem;
     transition: .5s;
-    word-break:break-all;
+//    word-break:break-all;
+    white-space:pre-wrap;
 }
 .dark-theme {
     background: #000;
