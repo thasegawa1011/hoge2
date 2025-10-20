@@ -1,10 +1,10 @@
 body{
     padding: 2rem;
     transition: .5s;
-    overflow-wrap:anywhere;
+    word-break:break-all;
 }
 .dark-theme {
-    backgrond: #000;
+    background: #000;
     color: #ddd;
 }
 #btn{
