@@ -1,3 +1,20 @@
 body{
+    padding: 2rem;
+    transition: .5s;
     overflow-wrap:anywhere;
+}
+.dark-theme {
+    backgrond: #000;
+    color: #ddd;
+}
+#btn{
+    background: #0bd;
+    padding: 1rem;
+    margin-bottom: 2rem;
+    font-size: 1rem;
+    color: #fff;
+    border-radius: 8px;
+    border: 0;
+    cursor: pointer;
+
 }
