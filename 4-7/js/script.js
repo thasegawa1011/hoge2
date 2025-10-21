@@ -2,9 +2,9 @@ const text = document.querySelector('#text');
 const count = document.querySelector('#count');
 
 text.addEventLidtener('keyup', () => {
-    count.textContent = text.ariaValueMax.length;
+    count.textContent = text.value.length;
 
-    if(text.ariaValueMax.length >100){
+    if(text.value.length >100){
         count.classList.add('alert');
     }
     else{
