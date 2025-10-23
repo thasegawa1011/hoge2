@@ -12,7 +12,7 @@ const getScrollPercent = () => {
     const percentage = scrolled /(pageHeight -viewHeight) * 100;
 
     //プログレスバーに幅を指定
-    document.querySelector('#bar').computedStyleMap.width = `${percentage}%`;
+    document.querySelector('#bar').style.width = `${percentage}%`;
 }
 
 windouw.addEventListener('scroll' , getScrollPercent);
