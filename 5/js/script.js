@@ -2,7 +2,7 @@ const menu = document.querySelector('#menu');
 
 const list = [
     {
-        name;'イチゴ',
+        name:'イチゴ',
         img: 'strawberry.jpg',
         price: 450,
     }
