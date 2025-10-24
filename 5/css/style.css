@@ -6,7 +6,7 @@ body{
     display:grid;
     gap: 30px;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-//    max-width: 1020px;
+/*    max-width: 1020px; */
     margin: auto;
     padding: 30px;
 }
