@@ -15,4 +15,4 @@ const getScrollPercent = () => {
     document.querySelector('#bar').style.width = `${percentage}%`;
 }
 
-windouw.addEventListener('scroll' , getScrollPercent);
+window.addEventListener('scroll' , getScrollPercent);
