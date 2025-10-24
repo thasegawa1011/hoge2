@@ -2,7 +2,7 @@ body{
     text-align:center;
     font-family: 'kiwi Maru', serif;
 }
-#menu{
+#menu {
     display:grid;
     gap: 30px;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -12,7 +12,7 @@ body{
 }
 img{
     width: 100%;
-    aspect-ratio: 4/3;
+    aspect-ratio: 4 / 3;
     object-fit: cover;
 }
 h1{
