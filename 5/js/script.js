@@ -9,5 +9,6 @@ const list = [
 ];
 
 for(lef i=0; i< list.length; i++){
-const {name, img,price} 
+const {name, img,price} = list[i];
+
 }
