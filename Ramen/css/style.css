@@ -2,6 +2,7 @@ h1{
     text-align:center;
 }
 p.img_center{
+    wigth: 300px;
     height:auto;
     text-align:center;
 }
