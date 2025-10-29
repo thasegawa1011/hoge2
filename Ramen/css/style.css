@@ -3,6 +3,6 @@ h1{
 }
 p.img_center{
     wigth: 5px;
-    height: 5px;
+    height: auto;
     text-align:center;
 }
