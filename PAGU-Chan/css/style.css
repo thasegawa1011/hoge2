@@ -18,6 +18,9 @@
     opacity: 0;
     visibility: hidden;
 }
+h1{
+    text-align:center;
+}
 
 /*　コンテンツ部分　*/
 .gallery {
