@@ -3,9 +3,9 @@ https://sqripts.com/2023/01/20/29448/
 ## hello world!
 * やりたいこと
 	* PAGU-Chanの更新
-  *どう変更するか？
+   *どう変更するか？
 	* photoギャラリー
-	* 動画
+	* 
 	* 
 	* 
  
