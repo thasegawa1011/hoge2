@@ -1,6 +1,24 @@
 https://sqripts.com/2023/01/20/29448/
 
-＃ hello world!
+## hello world!
+*やりたいこと
+ *
+ *
+ *
+ *
+ *
+ 
+*やること
+ *アニメーション
+ *
+ *
+ *
+ *
+ 
+*
+
+
+
 
 Mana's portfolio website
 
