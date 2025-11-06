@@ -6,6 +6,7 @@ const keyframes1 = {
 const options1 = {
     duration: 2000,
     easing: 'ease',
+    iterations: Infinity,
 };
 heading1.animate(keyframes1,options1);
 
