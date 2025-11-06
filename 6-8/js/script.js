@@ -7,7 +7,7 @@ const options1 = {
     duration: 2000,
     easing: 'ease',
 };
-heading.animate(keyframes1,options1);
+heading1.animate(keyframes1,options1);
 
 const heading2 = document.querySelector('#heading2');
 const keyframes2 = {
