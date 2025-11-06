@@ -1,21 +1,16 @@
-const heading = document.querySelector('#heading');
-const keyframes = {
-    opacity: [0, 1],
-//    translate:['0 100px', 0],
+const heading1 = document.querySelector('#heading1');
+const keyframes1 = {
+    opacity1: [0, 1],
     rotate: ['x 360deg', 0],
 };
-const options = {
+const options1 = {
     duration: 2000,
     easing: 'ease',
 };
-
-heading.animate(keyframes,options);
+heading.animate(keyframes1,options1);
 
 const heading2 = document.querySelector('#heading2');
 const keyframes2 = {
-//    opacity: [0, 1],
-//    translate:['0 100px', 0],
-//    rotate: ['x 360deg', 0],
     color:['#f66','#fc2','#0c6','#0bd']
 };
 const options2 = {
@@ -23,5 +18,16 @@ const options2 = {
     direction: 'alternate',
     iterations: Infinity,
 };
-
 heading2.animate(keyframes2,options2);
+
+
+const heading3 = document.querySelector('#heading3');
+const keyframes3 = {
+    color:['transparent','#fff'],
+    backgroundPosition:['100% 0', '0 0'],
+};
+const options3 = {
+    duration: 1000,
+    easing: 'ease',
+};
+heading3.animate(keyframes3,options3);
