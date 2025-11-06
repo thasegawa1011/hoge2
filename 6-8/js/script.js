@@ -28,6 +28,8 @@ const keyframes3 = {
 };
 const options3 = {
     duration: 1000,
-    easing: 'ease',
+    direction: 'alternate',
+    iterations: Infinity,
+//    easing: 'ease',
 };
 heading3.animate(keyframes3,options3);
