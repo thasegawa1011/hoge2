@@ -20,8 +20,8 @@ const keyframes2 = {
 };
 const options2 = {
     duration: 8000,
-    direction: 'alternate'
-    iterarions: Infinity,
+    direction: 'alternate',
+    iterations: Infinity,
 };
 
 heading2.animate(keyframes2,options2);
