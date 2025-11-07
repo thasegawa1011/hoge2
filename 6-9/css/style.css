@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+h1#heading3{
+    color: #fff;
+    display: inline-block;
+    background-image: linear-gradient(90deg, #0bd, #0bd 50%, #fff 50%, #fff);
+    background-size: 200% 100%;
+    padding: .5rem 1rem;
+}
