@@ -1,6 +1,6 @@
 const itemes = document.querySelectorAll('.img-item');
 
-for (let i = 0; i < items.length; i++) {
+for (let i = 0; i < itemes.length; i++) {
     const keyframes ={
         opacity: [0, 1]
     };
@@ -9,5 +9,5 @@ for (let i = 0; i < items.length; i++) {
         delay: i*300,
         fill: 'forwards',
     };
-    items[i].animate(keyframes, options);
+    itemes[i].animate(keyframes, options);
 }
