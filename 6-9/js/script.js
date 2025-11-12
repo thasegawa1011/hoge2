@@ -5,7 +5,7 @@ for (let i = 0; i < itemes.length; i++) {
         opacity: [0, 1]
     };
     const options = {
-        duration: 600,
+        duration:2000,
         delay: i*300,
         fill: 'forwards',
     };
