@@ -1,6 +1,6 @@
 const itemes = document.querySelectorAll('.img-item');
 
-for (let i = 0; i < itemes.length; i++) {
+for (let i = 0; i < items.length; i++) {
     const keyframes ={
         opacity: [0, 1]
     };
