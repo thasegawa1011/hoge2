@@ -10,5 +10,5 @@ for (let i = 0; i < itemes.length; i++) {
         delay: i*300,
         fill: 'forwards',
     };
-    items[i].animate(keyframes, options);
+    itemes[i].animate(keyframes, options);
 }
