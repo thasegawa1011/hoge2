@@ -26,8 +26,8 @@ h1{
 .item {
     display: grid;
     gap: 30px;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    min-width: 505px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    min-width: 1024px;
     margin:auto;
     padding: 30px;
 }
