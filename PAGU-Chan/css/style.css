@@ -27,8 +27,11 @@ h1{
     display: grid;
     gap: 10px;
     grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+    max-width: 1020px;
+    margin:auto;
+    padding: 30px;
 }
-img{
+.itemes{
     width: 100%;
     height: auto;
     object-fit: cover;
