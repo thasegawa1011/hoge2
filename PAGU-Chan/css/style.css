@@ -23,7 +23,7 @@ h1{
 }
 
 /*　コンテンツ部分　*/
-.gallery {
+.item {
     display: grid;
     gap: 30px;
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
