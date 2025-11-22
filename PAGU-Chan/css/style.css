@@ -25,8 +25,8 @@ h1{
 /*　コンテンツ部分　*/
 .gallery {
     display: grid;
-    gap: 10px;
-    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr));
+    gap: 30px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     max-width: 1020px;
     margin:auto;
     padding: 30px;
