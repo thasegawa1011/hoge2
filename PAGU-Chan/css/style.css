@@ -27,7 +27,7 @@ h1{
     display: grid;
     gap: 30px;
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-    max-width: 1020px;
+    max-width: 300px;
     margin:auto;
     padding: 30px;
 }
